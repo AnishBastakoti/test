@@ -85,3 +85,13 @@ button.social
 
     background: #dd4b39;
 }
+
+footer{
+  background-color: #72726e;
+  padding-top: 10px;
+  color:white;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
