@@ -1,9 +1,8 @@
-const cacheName = "v2";
+const cacheName = "A1";
 
 const cacheAssets = [
   "index.html",
   "/css/style.css",
-  "/img/imag.jpg",
 ];
 
 // Call Install Event
