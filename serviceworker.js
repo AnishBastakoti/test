@@ -2,8 +2,8 @@ const cacheName = "v2";
 
 const cacheAssets = [
   "index.html",
-  "/style.css",
-  "/imag.jpeg",
+  "/css/style.css",
+  "/img/imag.jpg",
 ];
 
 // Call Install Event
