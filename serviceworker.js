@@ -3,7 +3,6 @@ const cacheName = "v2";
 const cacheAssets = [
   "index.html",
   "/style.css",
-  "/js/index.js",
   "/imag.jpeg",
 ];
 
